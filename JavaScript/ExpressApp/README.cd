@@ -1,0 +1,14 @@
+# JavaScript ExpressApp
+
+Basic Express.js server.
+
+## How to Run
+
+```bash
+npm install express
+node app.js
+```
+
+## Dockerization
+
+Add your Dockerfile here to containerize this app.
