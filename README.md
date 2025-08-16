@@ -21,3 +21,5 @@ Each application folder has its own README and is ready for Dockerization.
 - Rust
 
 Feel free to add your own Dockerfile in each application folder!
+
+Here is the implementation, please check the other branch [docker](https://github.com/Gurram2001/docker-practice-apps/tree/docker). It's currently a work in progress.
